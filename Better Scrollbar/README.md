@@ -1,3 +1,3 @@
-<center># Better Scrollbar</cetner>
+<h1 align="center"> Better Scrollbar</h1>
 <br>
-<center>Makes the scrollbar look better.</center>
+<h4 align="center">Makes the scrollbar look better.</h4>
